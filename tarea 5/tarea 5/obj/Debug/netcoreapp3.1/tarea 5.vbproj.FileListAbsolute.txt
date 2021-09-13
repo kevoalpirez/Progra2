@@ -1,0 +1,7 @@
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.vbproj.AssemblyReference.cache
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea_5.Form1.resources
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.vbproj.GenerateResource.cache
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.AssemblyInfoInputs.cache
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.AssemblyInfo.vb
+D:\USAC\SEMESTRE 2.2021\PROGRAMACION 2\TAREAS\TAREA 5\tarea 5\tarea 5\obj\Debug\netcoreapp3.1\tarea 5.vbproj.CoreCompileInputs.cache
